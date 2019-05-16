@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "id": "ipad5",
+      "company_id": "x_6V63X9NVXt2JZChXkJTdPWs6Yyyxn1NrX4O3hv",
+      "name": "Apple Ipad mini 5"
+    },
+    {
+      "id": "note8",
+      "company_id": "B7C_s6YApV__u9crwGwFdpBBouMCL5-1x1xZE06e",
+      "name": "Samsung Note 8"
+    }
+  ]
+}
